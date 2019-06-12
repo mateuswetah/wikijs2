@@ -2,7 +2,7 @@
 title: Pagina com imagem
 description: Essa página tem uma imagem...
 published: 1
-date: 2019-06-12T13:25:32.687Z
+date: 2019-06-12T13:25:36.142Z
 tags: 
 ---
 
